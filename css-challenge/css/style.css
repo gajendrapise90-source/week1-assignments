@@ -1,0 +1,281 @@
+
+/* ---------- Global Styles ---------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f7fb;
+  color: #202b3c;
+  line-height: 1.6;
+}
+
+.page-header {
+  padding: 65px 20px;
+  text-align: center;
+  color: #ffffff;
+  background: linear-gradient(135deg, #172554, #4338ca);
+}
+
+.eyebrow,
+.section-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.eyebrow {
+  color: #c7d2fe;
+  margin-bottom: 12px;
+}
+
+.page-header h1 {
+  font-size: clamp(30px, 5vw, 46px);
+  margin-bottom: 10px;
+}
+
+.page-header > p:last-child {
+  color: #e0e7ff;
+}
+
+.container {
+  width: min(1100px, 92%);
+  margin: 0 auto;
+}
+
+.challenge-section {
+  padding: 60px 0;
+}
+
+.section-label {
+  color: #4f46e5;
+  margin-bottom: 8px;
+}
+
+.challenge-section h2 {
+  font-size: clamp(24px, 4vw, 32px);
+  margin-bottom: 8px;
+}
+
+.section-description {
+  color: #64748b;
+  margin-bottom: 28px;
+}
+
+/* ---------- Exercise 1: Flexbox ---------- */
+.testimonial-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.testimonial-card {
+  flex: 1 1 250px;
+  min-width: 0;
+  padding: 28px 24px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  box-shadow: 0 5px 20px rgba(15, 23, 42, 0.04);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.10);
+}
+
+.avatar {
+  display: grid;
+  place-items: center;
+  width: 54px;
+  height: 54px;
+  margin-bottom: 14px;
+  border-radius: 50%;
+  background: #e0e7ff;
+  color: #4338ca;
+  font-weight: 700;
+}
+
+.stars {
+  color: #f59e0b;
+  letter-spacing: 3px;
+  margin-bottom: 12px;
+}
+
+.testimonial-text {
+  color: #475569;
+  margin-bottom: 18px;
+}
+
+.testimonial-card h3 {
+  font-size: 17px;
+}
+
+.role {
+  color: #64748b;
+  font-size: 14px;
+}
+
+/* ---------- Exercise 2: CSS Grid ---------- */
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.service-card {
+  padding: 28px 24px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-5px);
+  border-color: #818cf8;
+}
+
+.service-icon {
+  display: inline-block;
+  font-size: 30px;
+  margin-bottom: 14px;
+}
+
+.service-card h3 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.service-card p {
+  font-size: 14px;
+  color: #64748b;
+}
+
+/* ---------- Exercise 3: Animation ---------- */
+.animation-demo {
+  padding: 40px 20px;
+  text-align: center;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 20px;
+}
+
+.animation-icon {
+  font-size: 38px;
+  margin-bottom: 12px;
+  animation: float 2.5s ease-in-out infinite;
+}
+
+.animation-demo h3 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.animation-demo p {
+  color: #64748b;
+  margin-bottom: 24px;
+}
+
+.animated-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px 22px;
+  border-radius: 9px;
+  background: #4338ca;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  transition: background-color 0.3s ease,
+              transform 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
+.animated-button:hover {
+  background: #312e81;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 18px rgba(67, 56, 202, 0.25);
+}
+
+.animated-button span {
+  transition: transform 0.3s ease;
+}
+
+.animated-button:hover span {
+  transform: translateX(4px);
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-7px);
+  }
+}
+
+/* ---------- Footer ---------- */
+.page-footer {
+  padding: 24px 16px;
+  text-align: center;
+  background: #172554;
+  color: #e0e7ff;
+  font-size: 14px;
+}
+
+/* ---------- Responsive Layout ---------- */
+@media (max-width: 768px) {
+  .challenge-section {
+    padding: 42px 0;
+  }
+
+  .testimonial-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .service-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-header {
+    padding: 48px 16px;
+  }
+
+  .service-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .testimonial-card,
+  .service-card {
+    padding: 22px;
+  }
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
