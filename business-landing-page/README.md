@@ -75,8 +75,7 @@ business-landing-page/
 1. Clone or download the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
-   ```
+git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
 
 2. Open the project folder in Visual Studio Code or another code editor.
 3. Open `index.html` in a web browser.
@@ -87,15 +86,12 @@ No additional dependencies are required for the basic HTML, CSS, and JavaScript 
 
 7. Live Project Link
 
-**Live Demo:** Add your deployed GitHub Pages URL here.
+Live Demo: https://gajendrapise90-source.github.io/week1-assignments/business-landing-page
 
-Example:
-
-`https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/`
 
 8. Screenshots
 
-Add screenshots of the completed landing page to `assets/screenshots/`.
+Add screenshots of the completed landing page to `screenshots/`.
 
  Required Screenshots
 1. Full Desktop View – Shows the complete landing page layout.
@@ -106,13 +102,13 @@ Add screenshots of the completed landing page to `assets/screenshots/`.
 To display screenshots in this README, use Markdown:
 
 ```markdown
-![Desktop Landing Page](assets/screenshots/desktop-full-page.png)
+![Desktop Landing Page](screenshots/desktop-full-page.png)
 
-![Mobile Hero Section](assets/screenshots/hero-mobile.png)
+![Mobile Hero Section](screenshots/hero-mobile.png)
 
-![Services Section](assets/screenshots/services-section.png)
+![Services Section](screenshots/services-section.png)
 
-![Contact Form](assets/screenshots/contact-form.png)
+![Contact Form](screenshots/contact-form.png)
 ```
 
  9. Industry Best Practices
@@ -137,4 +133,3 @@ To display screenshots in this README, use Markdown:
 - Business Concept: Nexa Digital – Digital Agency
 
 ---
-
