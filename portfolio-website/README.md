@@ -85,7 +85,7 @@ portfolio-website/
 1. Clone or download the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
    ```
 
 2. Open the project folder in Visual Studio Code or another code editor.
@@ -97,12 +97,7 @@ portfolio-website/
 No additional dependencies are required for the basic HTML, CSS, and JavaScript implementation.
 
 7. Live Project Link
-
-**Live Demo:** Add your deployed GitHub Pages, Netlify, or Vercel URL here.
-
-Example:
-
-`https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/`
+Live Demo:https://gajendrapise90-source.github.io/week1-assignments/portfolio-website/
 
 8. Screenshots
 
