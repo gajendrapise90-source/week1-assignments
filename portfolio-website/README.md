@@ -79,7 +79,7 @@ Professional Portfolio Website
       └── README.md
 6. Setup and Run Instructions
    
-      1.Clone or download the repository:
+      1. Clone or download the repository:
          git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
       2. Open the project folder in Visual Studio Code or another code editor.
       3. Open `index.html` in a web browser.
