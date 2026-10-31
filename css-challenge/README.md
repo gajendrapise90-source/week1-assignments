@@ -64,7 +64,7 @@ git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
 No additional dependencies are required.
 
 7. Live Project Link
-Live Demo: https://gajendrapise90-source.github.io/week1-assignments/css-challenge/
+Live Demo: https://gajendrapise90-source.github.io/week1-assignments/css-challenge
 
 8. Screenshots
 
