@@ -56,6 +56,7 @@ Nexa Digital – Responsive Business Landing Page
    - Interactive hover effects and animations where appropriate.
 
 5. Folder Structure
+
    business-landing-page/
    ├── index.html
    ├── css/
@@ -69,7 +70,7 @@ Nexa Digital – Responsive Business Landing Page
    │   └── contact-form.png
    └── README.md
 
-6. Setup and Run Instructions
+7. Setup and Run Instructions
 
    1. Clone or download the repository:
    git clone https://github.com/gajendrapise90-source/week1-assignments.git 
@@ -80,12 +81,12 @@ Nexa Digital – Responsive Business Landing Page
    
    No additional dependencies are required for the basic HTML, CSS, and JavaScript implementation.
 
-7. Live Project Link
+8. Live Project Link
 
    Live Demo: https://gajendrapise90-source.github.io/week1-assignments/business-landing-page
 
 
-8. Screenshots
+9. Screenshots
 
    Add screenshots of the completed landing page to `screenshots/`.
    
@@ -107,7 +108,7 @@ Nexa Digital – Responsive Business Landing Page
    ![Contact Form](screenshots/contact-form.png)
    ```
 
- 9. Industry Best Practices
+ 10. Industry Best Practices
    - Maintained consistent branding and visual styling.
    - Used clear heading and body-text hierarchy.
    - Placed important messaging and calls to action prominently.
