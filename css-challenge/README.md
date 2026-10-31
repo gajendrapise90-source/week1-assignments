@@ -83,16 +83,6 @@ CSS Challenge – Responsive Layouts and Animations
    ![Animation Example](screenshots/animation-example.png)
    ```
 9.Industry Best Practices
-
-   Maintained consistent branding and visual styling.
-   Used clear heading and body-text hierarchy.
-   Placed important messaging and calls to action prominently.
-   Organized sections in a logical order.
-   Used readable text contrast and sufficient whitespace.
-   Designed touch-friendly buttons and form fields.
-   Implemented responsive behavior for smaller screens.
-   Used semantic HTML elements where appropriate.
-9. Best Practices Followed
    - Used clear and meaningful CSS class names.
    - Organized components into logical sections.
    - Maintained consistent spacing and alignment.
