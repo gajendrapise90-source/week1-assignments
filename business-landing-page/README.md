@@ -72,64 +72,61 @@ business-landing-page/
 
 6. Setup and Run Instructions
 
-1. Clone or download the repository:
-
-   ```bash
-git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
-
-2. Open the project folder in Visual Studio Code or another code editor.
-3. Open `index.html` in a web browser.
-4. Test the navigation links, call-to-action buttons, service cards, and contact form.
-5. Resize the browser window or use Developer Tools to verify responsiveness on mobile devices.
-
-No additional dependencies are required for the basic HTML, CSS, and JavaScript implementation.
+   1. Clone or download the repository:
+   git clone https://github.com/gajendrapise90-source/week1-assignments.git 
+   2. Open the project folder in Visual Studio Code or another code editor.
+   3. Open `index.html` in a web browser.
+   4. Test the navigation links, call-to-action buttons, service cards, and contact form.
+   5. Resize the browser window or use Developer Tools to verify responsiveness on mobile devices.
+   
+   No additional dependencies are required for the basic HTML, CSS, and JavaScript implementation.
 
 7. Live Project Link
 
-Live Demo: https://gajendrapise90-source.github.io/week1-assignments/business-landing-page
+   Live Demo: https://gajendrapise90-source.github.io/week1-assignments/business-landing-page
 
 
 8. Screenshots
 
-Add screenshots of the completed landing page to `screenshots/`.
-
- Required Screenshots
-1. Full Desktop View – Shows the complete landing page layout.
-2. Mobile Hero Section – Demonstrates responsive hero content and navigation.
-3. Services Section – Shows the service cards and their layout.
-4. Contact Form – Shows the form fields and submit button.
-
-To display screenshots in this README, use Markdown:
-
-```markdown
-![Desktop Landing Page](screenshots/desktop-full-page.png)
-
-![Mobile Hero Section](screenshots/hero-mobile.png)
-
-![Services Section](screenshots/services-section.png)
-
-![Contact Form](screenshots/contact-form.png)
-```
+   Add screenshots of the completed landing page to `screenshots/`.
+   
+    Required Screenshots
+   1. Full Desktop View – Shows the complete landing page layout.
+   2. Mobile Hero Section – Demonstrates responsive hero content and navigation.
+   3. Services Section – Shows the service cards and their layout.
+   4. Contact Form – Shows the form fields and submit button.
+   
+   To display screenshots in this README, use Markdown:
+   
+   ```markdown
+   ![Desktop Landing Page](screenshots/desktop-full-page.png)
+   
+   ![Mobile Hero Section](screenshots/hero-mobile.png)
+   
+   ![Services Section](screenshots/services-section.png)
+   
+   ![Contact Form](screenshots/contact-form.png)
+   ```
 
  9. Industry Best Practices
-- Maintained consistent branding and visual styling.
-- Used clear heading and body-text hierarchy.
-- Placed important messaging and calls to action prominently.
-- Organized sections in a logical order.
-- Used readable text contrast and sufficient whitespace.
-- Designed touch-friendly buttons and form fields.
-- Implemented responsive behavior for smaller screens.
-- Used semantic HTML elements where appropriate.
+   - Maintained consistent branding and visual styling.
+   - Used clear heading and body-text hierarchy.
+   - Placed important messaging and calls to action prominently.
+   - Organized sections in a logical order.
+   - Used readable text contrast and sufficient whitespace.
+   - Designed touch-friendly buttons and form fields.
+   - Implemented responsive behavior for smaller screens.
+   - Used semantic HTML elements where appropriate.
 
  10. Author Details
-- Name: Gajendra Lomeshrao Pise
-- GitHub: https://github.com/gajendrapise90-source
-- LinkedIn: https://www.linkedin.com/in/gajendra-pise-41830b370/
+   - Name: Gajendra Lomeshrao Pise
+   - GitHub: https://github.com/gajendrapise90-source
+   - LinkedIn: https://www.linkedin.com/in/gajendra-pise-41830b370/
 
  11. Project Information
-- Program: WeIntern Internship
-- Week: Week 1
-- Task: Task 2 – Responsive Business Landing Page
-- Business Concept: Nexa Digital – Digital Agency
+   - Program: WeIntern Internship
+   - Week: Week 1
+   - Task: Task 2 – Responsive Business Landing Page
+   - Business Concept: Nexa Digital – Digital Agency
 
 ---
