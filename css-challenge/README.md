@@ -56,9 +56,10 @@ CSS Challenge – Responsive Layouts and Animations
    No additional dependencies are required.
 
 8. Live Project Link
+   
    Live Demo: https://gajendrapise90-source.github.io/week1-assignments/css-challenge
 
-9. Screenshots
+10. Screenshots
 
    Add screenshots of the completed CSS Challenge project to `screenshots/`.
    
@@ -80,7 +81,7 @@ CSS Challenge – Responsive Layouts and Animations
    
    ![Animation Example](screenshots/animation-example.png)
    ```
-10. Best Practices Followed
+11. Best Practices Followed
    - Used clear and meaningful CSS class names.
    - Organized components into logical sections.
    - Maintained consistent spacing and alignment.
