@@ -82,7 +82,7 @@ CSS Challenge – Responsive Layouts and Animations
    
    ![Animation Example](screenshots/animation-example.png)
    ```
-9.Industry Best Practices
+9. Industry Best Practices
    - Used clear and meaningful CSS class names.
    - Organized components into logical sections.
    - Maintained consistent spacing and alignment.
