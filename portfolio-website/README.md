@@ -77,9 +77,7 @@ Professional Portfolio Website
       │   ├── projects-section.png
       │   └── contact-form.png
       └── README.md
-   ```
 6. Setup and Run Instructions
-
       1.Clone or download the repository:
          git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
       2. Open the project folder in Visual Studio Code or another code editor.
@@ -87,9 +85,7 @@ Professional Portfolio Website
       4. Navigate through the Home, About, Projects, and Contact sections or pages.
       5. Test navigation links, buttons, forms, and other interactive elements.
       6. Resize the browser window to check responsive behavior on desktop, tablet, and mobile screens.
-      
       No additional dependencies are required for the basic HTML, CSS, and JavaScript implementation.
-
 7. Live Project Link
    
       Live Demo: https://gajendrapise90-source.github.io/week1-assignments/portfolio-website/
