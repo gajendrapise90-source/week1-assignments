@@ -34,6 +34,7 @@ CSS Challenge – Responsive Layouts and Animations
    - Animations designed to enhance usability without excessive motion.
 
 5. Folder Structure
+   
    css-challenge/
    ├── index.html
    ├── css/
@@ -45,7 +46,7 @@ CSS Challenge – Responsive Layouts and Animations
    │   └── animation-example.png
    └── README.md
    
-6. Setup and Run Instructions
+7. Setup and Run Instructions
    1. Clone or download the repository:
       git clone https://github.com/gajendrapise90-source/week1-assignments.git
    2. Open the project folder in Visual Studio Code or another code editor.
@@ -55,12 +56,12 @@ CSS Challenge – Responsive Layouts and Animations
 
    No additional dependencies are required.
 
-7. Live Project Link
+8. Live Project Link
    
    Live Demo: https://gajendrapise90-source.github.io/week1-assignments/css-challenge
 
 
-8. Screenshots
+9. Screenshots
 
    Add screenshots of the completed CSS Challenge project to `screenshots/`.
    
