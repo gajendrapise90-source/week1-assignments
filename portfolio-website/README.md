@@ -86,6 +86,7 @@ Professional Portfolio Website
       4. Navigate through the Home, About, Projects, and Contact sections or pages.
       5. Test navigation links, buttons, forms, and other interactive elements.
       6. Resize the browser window to check responsive behavior on desktop, tablet, and mobile screens.
+   
       No additional dependencies are required for the basic HTML, CSS, and JavaScript implementation.
 
 8. Live Project Link
