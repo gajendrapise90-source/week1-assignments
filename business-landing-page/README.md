@@ -1,74 +1,73 @@
 Nexa Digital – Responsive Business Landing Page
 
 1. Project Title
-Nexa Digital – Responsive Business Landing Page
-
-A modern, responsive landing page for a digital agency, designed to showcase services, communicate business value, and encourage visitors to get in touch.
+   Nexa Digital – Responsive Business Landing Page
+   
+   A modern, responsive landing page for a digital agency, designed to showcase services, communicate business value, and encourage visitors to get in touch.
 
 2. Objective
-The objective of this project is to build a professional business landing page using HTML, CSS, and JavaScript. The website demonstrates responsive design, consistent branding, clear navigation, service presentation, and an accessible contact form across desktop and mobile devices.
+   The objective of this project is to build a professional business landing page using HTML, CSS, and JavaScript. The website demonstrates responsive design, consistent branding, clear navigation, service presentation, and an accessible contact form across desktop and mobile devices.
 
 3. Tech Stack
-- HTML5 – Website structure, content, navigation, and contact form.
-- CSS3 – Styling, responsive layouts, typography, animations, and visual effects.
-- JavaScript – Interactive elements and optional form validation.
+   - HTML5 – Website structure, content, navigation, and contact form.
+   - CSS3 – Styling, responsive layouts, typography, animations, and visual effects.
+   - JavaScript – Interactive elements and optional form validation.
 
 4. Features Implemented
 
-Navigation Bar
-- Business name and branding.
-- Navigation links to key website sections.
-- Primary call-to-action button.
-- Responsive navigation for smaller screens.
-
-Hero Section
-- Headline communicating the business value proposition.
-- Supporting description.
-- Primary and secondary call-to-action buttons.
-- Hero image or background visual.
-- Professional layout and typography.
-
-Services Section
-- Service cards presenting business offerings.
-- Consistent spacing, alignment, and card styling.
-- Short descriptions explaining the value of each service.
-- Icons or images where appropriate.
-
-About Section
-- Introduction to the business.
-- Information about its services and value.
-- Brand-consistent presentation.
-
-Contact Form
-- Name field.
-- Email field.
-- Phone field or optional business-specific field.
-- Message textarea.
-- Submit button.
-- Basic form validation using HTML attributes.
-
-Responsive Design and Styling
-- Responsive layouts for desktop, tablet, and mobile devices.
-- Mobile-friendly design for screens below 768px.
-- Readable typography and balanced spacing.
-- Proportional image scaling.
-- Consistent button styles, border radius, and visual effects.
-- Interactive hover effects and animations where appropriate.
+   Navigation Bar
+   - Business name and branding.
+   - Navigation links to key website sections.
+   - Primary call-to-action button.
+   - Responsive navigation for smaller screens.
+   
+   Hero Section
+   - Headline communicating the business value proposition.
+   - Supporting description.
+   - Primary and secondary call-to-action buttons.
+   - Hero image or background visual.
+   - Professional layout and typography.
+   
+   Services Section
+   - Service cards presenting business offerings.
+   - Consistent spacing, alignment, and card styling.
+   - Short descriptions explaining the value of each service.
+   - Icons or images where appropriate.
+   
+   About Section
+   - Introduction to the business.
+   - Information about its services and value.
+   - Brand-consistent presentation.
+   
+   Contact Form
+   - Name field.
+   - Email field.
+   - Phone field or optional business-specific field.
+   - Message textarea.
+   - Submit button.
+   - Basic form validation using HTML attributes.
+   
+   Responsive Design and Styling
+   - Responsive layouts for desktop, tablet, and mobile devices.
+   - Mobile-friendly design for screens below 768px.
+   - Readable typography and balanced spacing.
+   - Proportional image scaling.
+   - Consistent button styles, border radius, and visual effects.
+   - Interactive hover effects and animations where appropriate.
 
 5. Folder Structure
-
-business-landing-page/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── screenshots/
-│   ├── desktop-full-page.png
-│   ├── hero-mobile.png
-│   ├── services-section.png
-│   └── contact-form.png
-└── README.md
+   business-landing-page/
+   ├── index.html
+   ├── css/
+   │   └── style.css
+   ├── js/
+   │   └── script.js
+   ├── screenshots/
+   │   ├── desktop-full-page.png
+   │   ├── hero-mobile.png
+   │   ├── services-section.png
+   │   └── contact-form.png
+   └── README.md
 
 6. Setup and Run Instructions
 
