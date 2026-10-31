@@ -65,6 +65,7 @@ No additional dependencies are required.
 
 7. Live Project Link
 Live Demo: https://gajendrapise90-source.github.io/week1-assignments/css-challenge
+Live Demo: https://gajendrapise90-source.github.io/week1-assignments/business-landing-page
 
 8. Screenshots
 
