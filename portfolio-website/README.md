@@ -60,6 +60,7 @@ Professional Portfolio Website
    - Smooth scrolling navigation.
 
 5. Folder Structure
+   
       portfolio-website/
       ├── index.html
       ├── about.html
@@ -77,7 +78,7 @@ Professional Portfolio Website
       │   ├── projects-section.png
       │   └── contact-form.png
       └── README.md
-6. Setup and Run Instructions
+7. Setup and Run Instructions
    
       1. Clone or download the repository:
          git clone https://github.com/gajendrapise90-source/week1-assignments.git   ```
